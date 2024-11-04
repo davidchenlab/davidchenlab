@@ -16,6 +16,7 @@ date: 2023-03-01 11:31:31
 需要先設定Travel Notice，來填寫出國的日期、國家。
 
 步驟:
-先登入Charles Schwab網站，使用放大鏡搜尋功能輸入Travel Notice。
+先登入Charles Schwab網站，右上角Support-> Debit Cards & Checks
+-> + Add Travel Notice
 跳出視窗填入出國的日期、國家。
 ```
