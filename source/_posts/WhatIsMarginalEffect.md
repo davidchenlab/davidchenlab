@@ -1,5 +1,5 @@
 ---
-title: What Is Marginal Effect?
+title: "邊際效應是什麼？"
 description: "邊際效應是什麼？用遊樂場門票和木匠做椅腳的例子，說明邊際效應遞減、為零與遞增的情況，以及如何把每天 24 小時分配到最有效益的地方。"
 categories:
   - Psychology

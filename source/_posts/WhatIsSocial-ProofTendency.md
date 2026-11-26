@@ -1,5 +1,5 @@
 ---
-title: What Is Social-Proof Tendency
+title: "蒙格誤判心理學：社會認同傾向"
 description: "蒙格人類誤判心理學：社會認同傾向。跟著別人的想法和行動走能簡化決策，就像出捷運站跟著人群去小巨蛋，但這種從眾本能也可能讓人做出錯誤判斷。"
 categories:
   - Psychology

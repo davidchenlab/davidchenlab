@@ -1,5 +1,5 @@
 ---
-title: What Is Gamblers Fallacy?
+title: "賭徒謬誤是什麼？"
 description: "賭徒謬誤（蒙地卡羅謬誤）是以為某件事連續發生後，下次就比較不會發生。以蒙地卡羅輪盤連開 26 次黑為例，說明每次機率其實都一樣。"
 categories:
   - Psychology

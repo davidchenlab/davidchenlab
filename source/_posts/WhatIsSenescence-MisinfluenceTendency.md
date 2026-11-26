@@ -1,5 +1,5 @@
 ---
-title: What Is Senescence-Misinfluence Tendency
+title: "蒙格誤判心理學：衰老誤導傾向"
 description: "蒙格人類誤判心理學：衰老誤導傾向。年齡增長會帶來認知衰退，很少人老了還能學會複雜的新技能，持續快樂地思考與學習能延緩這個過程。"
 categories:
   - Psychology

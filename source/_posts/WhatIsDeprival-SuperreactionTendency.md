@@ -1,5 +1,5 @@
 ---
-title: What Is Deprival-Superreaction Tendency
+title: "蒙格誤判心理學：被剝奪超級反應傾向"
 description: "蒙格人類誤判心理學：被剝奪超級反應傾向。失去 10 美元的痛苦遠大於得到 10 美元的快樂，即將到手卻失去的東西也一樣，讓人對眼前損失斤斤計較。"
 categories:
   - Psychology

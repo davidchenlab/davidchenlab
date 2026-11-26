@@ -1,5 +1,5 @@
 ---
-title: What Is Volunteers Delimma?
+title: "志願者困境是什麼？"
 description: "志願者困境是什麼？用整個社區停電、只要有一個人打電話給電力公司就能解決的例子，說明為什麼每個人都想搭便車，結果可能沒有人出面。"
 categories:
   - Psychology

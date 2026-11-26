@@ -1,5 +1,5 @@
 ---
-title: What Is Confirmation Bias?
+title: "確認偏誤是什麼？"
 description: "確認偏誤是什麼？人們會選擇性地回憶與蒐集有利的細節、忽略矛盾資訊來支持既有想法。以情傷和相信算命為例，說明這種常見的認知偏誤。"
 categories:
   - Psychology

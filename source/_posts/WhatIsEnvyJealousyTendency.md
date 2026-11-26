@@ -1,5 +1,5 @@
 ---
-title: What Is Envy Jealousy Tendency
+title: "蒙格誤判心理學：羨慕／嫉妒傾向"
 description: "蒙格人類誤判心理學：羨慕／嫉妒傾向。從超出行情的薪水引發的議論，到律師事務所刻意讓合夥人薪酬相近，說明驅動世界的往往不是貪婪而是嫉妒。"
 categories:
   - Psychology

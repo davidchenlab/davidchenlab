@@ -1,5 +1,5 @@
 ---
-title: What Is Curiosity Tendency
+title: "蒙格誤判心理學：好奇心傾向"
 description: "蒙格人類誤判心理學：好奇心傾向。比較雅典人與羅馬人對數學和科學的貢獻，說明好奇心如何推動知識發展，並幫助人減少其他心理傾向的不良影響。"
 categories:
   - Psychology

@@ -1,5 +1,5 @@
 ---
-title: What Is Liking Loving Tendency
+title: "蒙格誤判心理學：喜歡／熱愛傾向"
 description: "蒙格人類誤判心理學：喜歡／熱愛傾向。人類天生渴望被喜歡和被愛，甚至希望得到陌生人的欣賞，這種心理會影響我們的判斷與人際關係。"
 categories:
   - Psychology

@@ -1,5 +1,5 @@
 ---
-title: What Is Kantian Fairness Tendency
+title: "蒙格誤判心理學：康德式公平傾向"
 description: "蒙格人類誤判心理學：康德式公平傾向。現代人期待每個人都遵守同樣的規則，這種對公平的要求，被認為是過去三百年世界各地廢除奴隸制度的重要因素。"
 categories:
   - Psychology

@@ -1,5 +1,5 @@
 ---
-title: What Is Contrast-Misreaction Tendency
+title: "蒙格誤判心理學：對照誤導傾向"
 description: "蒙格人類誤判心理學：對照誤導傾向。商家先標一個虛高的原價再打折，讓售價看起來很划算，即使我們識破這種伎倆，往往還是會受它影響。"
 categories:
   - Psychology

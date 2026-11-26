@@ -1,5 +1,5 @@
 ---
-title: What Is Reciprocation Tendency
+title: "蒙格誤判心理學：回饋傾向"
 description: "蒙格人類誤判心理學：回饋傾向。人類和許多社會性動物一樣，有以德報德、以牙還牙的強烈傾向，這種本能能促進團隊合作，但也容易被利用。"
 categories:
   - Psychology

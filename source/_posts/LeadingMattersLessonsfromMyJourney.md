@@ -1,5 +1,5 @@
 ---
-title: 這一生 你想留下什麼? 史丹佛的10堂領導課 Leading Matters Lessons from My Journey
+title: "《這一生，你想留下什麼？》史丹佛10堂領導課"
 description: "《這一生，你想留下什麼？史丹佛的10堂領導課》重點整理：正直、真誠、服務、同理心、勇氣、團隊合作、創新、求知、說故事與遺澤，十堂課一次看懂。"
 categories:
   - Book
