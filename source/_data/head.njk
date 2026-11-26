@@ -1,4 +1,4 @@
-<script data-ad-client="ca-pub-9204506101487451" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9204506101487451" crossorigin="anonymous"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZMM2PZWQSN"></script>
 <script>
@@ -56,6 +56,6 @@
 {%- endif %}
 
 {#- Keep thin list pages out of the index but let crawlers follow their links to posts -#}
-{%- if (is_archive and is_archive()) or (is_tag and is_tag()) or (is_category and is_category()) or (is_home and is_home() and page.current > 1) %}
+{%- if page.source == '404.md' or (is_archive and is_archive()) or (is_tag and is_tag()) or (is_category and is_category()) or (is_home and is_home() and page.current > 1) %}
 <meta name="robots" content="noindex, follow">
 {%- endif %}

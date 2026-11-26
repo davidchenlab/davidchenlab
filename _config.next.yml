@@ -82,10 +82,6 @@ disqus:
   enable: true
   shortname: davidchenlab
 
-google_analytics:
-  tracking_id: G-ZMM2PZWQSN
-  only_pageview: true
-
 local_search:
   enable: true
 
