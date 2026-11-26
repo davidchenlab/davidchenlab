@@ -1,3 +1,36 @@
+{%- if is_post and is_post() and page.categories %}
+{%- set rel = [] %}{%- set relPaths = [page.path] %}
+{%- for cat in page.categories.toArray() %}
+  {%- set list = cat.posts.sort('date').toArray() %}
+  {%- set idx = -1 %}
+  {%- for p in list %}{%- if p.path == page.path %}{%- set idx = loop.index0 %}{%- endif %}{%- endfor %}
+  {%- for off in [1, -1, 2, -2, 3, -3, 4, -4, 5, -5] %}
+    {%- set j = idx + off %}
+    {%- if rel.length < 5 and idx >= 0 and j >= 0 and j < list.length and not (list[j].path in relPaths) %}
+      {%- set _ = rel.push(list[j]) %}{%- set _ = relPaths.push(list[j].path) %}
+    {%- endif %}
+  {%- endfor %}
+{%- endfor %}
+{%- if rel.length < 5 and page.tags %}
+  {%- for tag in page.tags.toArray() %}
+    {%- for p in tag.posts.sort('-date').toArray() %}
+      {%- if rel.length < 5 and not (p.path in relPaths) %}
+        {%- set _ = rel.push(p) %}{%- set _ = relPaths.push(p.path) %}
+      {%- endif %}
+    {%- endfor %}
+  {%- endfor %}
+{%- endif %}
+{%- if rel.length %}
+<div class="related-posts">
+  <h2>相關文章</h2>
+  <ul>
+  {%- for p in rel %}
+    <li><a href="{{ url_for(p.path) }}">{{ p.title }}</a></li>
+  {%- endfor %}
+  </ul>
+</div>
+{%- endif %}
+{%- endif %}
 <!-- davidchenlab -->
 <ins class="adsbygoogle"
      style="display:block"
