@@ -2,7 +2,7 @@
 title: OKR 目標與關鍵結果
 description: "OKR 目標與關鍵結果是什麼？Google、Intel 都在用的目標管理方法，說明如何訂定一個 Objective 與三個可量化的 Key Results 來追蹤績效。"
 categories:
-  - Management
+  - Thinking
 tags:
   - Management
 abbrlink: 2f054923

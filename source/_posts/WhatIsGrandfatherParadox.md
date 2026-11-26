@@ -2,7 +2,7 @@
 title: What Is Grandfather Paradox?
 description: "祖父悖論是什麼？如果回到過去阻止祖父出生，你又怎麼會存在？介紹昆士蘭大學的研究：時空可能會自我調整，讓該發生的事情依然發生。"
 categories:
-  - Theory
+  - Thinking
 tags:
   - Theory
 abbrlink: 485f1658

@@ -2,7 +2,7 @@
 title: GoPro7 無法開機 可能原因 及 嘗試解決方法
 description: "GoPro 7 很久沒用後開不了機或開機就自動關機？可能是主機板沒電。分享拔掉電池、用原廠線通電等紅燈亮起，再逐步裝回電池救回 GoPro 的方法。"
 categories:
-  - GoPro7
+  - Hardware
 tags:
   - GoPro7
 abbrlink: fff241af

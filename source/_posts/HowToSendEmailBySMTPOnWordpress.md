@@ -2,7 +2,7 @@
 title: "WordPress 用 WP Mail SMTP 設定 Gmail 發信"
 description: "WordPress 如何用 Gmail SMTP 發信？安裝 WP Mail SMTP by WPForms，設定 smtp.gmail.com、TLS 與 587 埠，並說明收不到測試信與網域錯誤的排解方法。"
 categories:
-  - WordPress
+  - Website
 tags:
   - WordPress
   - Website

@@ -2,7 +2,7 @@
 title: Internet Fraud
 description: "如何識破網路投資詐騙？YouTube、Facebook 上高報酬低風險的廣告越來越多，記住高報酬必有高風險，對方加 LINE 後要你繼續匯款時，百分之百是詐騙。"
 categories:
-  - Internet
+  - Software
 tags:
   - Internet
   - Fraud

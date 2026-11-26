@@ -2,7 +2,7 @@
 title: The Peter Principle
 description: "彼得原理是什麼？在層級組織中，人會因表現好而一路升遷，直到升到無法勝任的職位為止，最終每個職位都可能被不適任的人占據。"
 categories:
-  - Management
+  - Thinking
 tags:
   - Management
 abbrlink: 20a6892d

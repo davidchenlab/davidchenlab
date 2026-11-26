@@ -2,7 +2,7 @@
 title: "WordPress 用 MonsterInsights 串接 GA"
 description: "WordPress 安裝 MonsterInsights 外掛串接 Google Analytics 的步驟：建立 GA 帳號與通用 Analytics 資源，再從外掛設定連結網站完成追蹤。"
 categories:
-  - WordPress
+  - Website
 tags:
   - WordPress
   - Website

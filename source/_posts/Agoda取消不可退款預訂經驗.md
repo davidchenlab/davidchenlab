@@ -4,7 +4,7 @@ description: "在 Agoda 不小心訂到不可退款的住宿怎麼辦？分享�
 abbrlink: 599bbdef
 date: 2026-10-13 12:38:56
 categories:
-  - Agoda
+  - Travel
 tags:
   - Agoda
   - Booking

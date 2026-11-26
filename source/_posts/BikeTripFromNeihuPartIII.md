@@ -2,7 +2,7 @@
 title: 內湖 單車山路 練腿力路線 III
 description: "內湖單車山路練腿力路線 III：從大港墘公園經劍南路、平等里一路爬坡十幾公里到冷水坑，最後一段魔王坡，附休息點與下坡安全提醒。"
 categories:
-  - Bike
+  - Sports
 tags:
   - Bike
 abbrlink: 3ba01d20

@@ -2,7 +2,7 @@
 title: 兌換 統一發票 memo
 description: "統一發票中獎去哪兌換？郵局自 2018 年底已停止兌換傳統發票，可改到便利商店或全聯兌領；電子發票存入手機條碼載具，中獎可直接匯款入帳。"
 categories:
-  - 統一發票
+  - Life
 tags:
   - 統一發票
 abbrlink: 1b61ccd7

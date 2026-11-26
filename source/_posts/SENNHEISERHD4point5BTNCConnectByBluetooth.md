@@ -2,7 +2,7 @@
 title: "Sennheiser HD 4.50 BTNC 藍牙配對教學"
 description: "Sennheiser HD 4.50 BTNC 藍牙耳機配對方法：先關閉耳機電源，打開裝置藍牙後長按電源鍵約 4 秒，看到藍紅燈交替閃爍就能在裝置上找到耳機。"
 categories:
-  - SENNHEISER
+  - Hardware
 tags:
   - SENNHEISER
   - Bluetooth

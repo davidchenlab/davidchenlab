@@ -2,7 +2,7 @@
 title: 多個Google帳戶 如何改預設帳戶
 description: "Chrome 登入多個 Google 帳戶時如何更改預設帳戶？先登出所有帳戶，再第一個登入的帳戶就會成為預設帳戶。"
 categories:
-  - Google
+  - Software
 tags:
   - Google
   - Chrome

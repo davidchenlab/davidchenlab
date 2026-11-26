@@ -2,10 +2,10 @@
 title: 捷克 Global Bule Tax Free 退稅 失敗經驗
 description: "捷克旅遊買手工皂申請 Global Blue 退稅，回國一個月後卻被反向刷卡扣款。分享 Email 詢問後才知道對方沒收到收據，需寄回正本的經驗。"
 categories:
-  - TaxFree
+  - Travel
 tags:
   - TaxFree
-  - GlobalBule
+  - GlobalBlue
 abbrlink: 1c574984
 date: 2024-08-16 21:01:00
 ---

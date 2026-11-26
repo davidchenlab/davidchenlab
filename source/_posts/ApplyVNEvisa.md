@@ -2,7 +2,7 @@
 title: Apply VN Evisa
 description: "越南電子簽證 E-visa 申請教學：準備不戴眼鏡的大頭照與護照電子檔，線上填寫個人與出入境資料，刷卡付款 25 美元後等待核發。"
 categories:
-  - Evisa
+  - Travel
 tags:
   - Evisa
 abbrlink: 66e7e840

@@ -2,7 +2,7 @@
 title: 無線路由器 VERSUS 無線AP(ACCESS POINT)
 description: "無線路由器和無線 AP 有什麼不同？路由器負責撥號上網並建立家用無線網路，AP 則把有線網路轉成無線，適合學校、公司大範圍覆蓋。"
 categories:
-  - Network
+  - Hardware
 tags:
   - Network
 abbrlink: fe80ceb7

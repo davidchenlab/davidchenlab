@@ -2,7 +2,7 @@
 title: 介紹 APPLE ID 詐騙
 description: "收到「您的 Apple ID 交易受到限制」的 Email？教你從寄件信箱不是 apple.com、地址錯誤與大量超連結識破詐騙信，並轉寄給 reportphishing@apple.com 檢舉。"
 categories:
-  - Scam
+  - Software
 tags:
   - Scam
 abbrlink: 6b99881a

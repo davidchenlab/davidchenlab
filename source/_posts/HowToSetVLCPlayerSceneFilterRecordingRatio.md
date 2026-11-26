@@ -2,7 +2,7 @@
 title: "VLC 場景過濾器 Recording Ratio 設定教學"
 description: "VLC 場景視訊過濾器的 Recording Ratio 怎麼設定？它代表每隔幾格截一次圖，例如 30fps 影片設 300 就是每 10 秒截一張，並教你查詢影片的 fps。"
 categories:
-  - VLC Media Player
+  - Software
 tags:
   - VLC Media Player
   - Scene Filter

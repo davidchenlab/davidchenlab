@@ -7,7 +7,7 @@ tags:
   - Website
   - WordPress
   - Freenom
-  - Cloudfare
+  - Cloudflare
 abbrlink: 3661c38e
 date: 2021-10-24 19:30:56
 ---

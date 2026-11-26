@@ -2,7 +2,7 @@
 title: 如何在 馬尼拉 辦Globe門號 及網路
 description: "到馬尼拉怎麼辦 Globe 門號上網？機場 T3 方案最低 1000 披索太貴，建議到市區 LAWSON 買 50 披索的 SIM 卡，下載 Globe One 註冊後再儲值。"
 categories:
-  - Globe
+  - Travel
 tags:
   - Globe
   - Manila

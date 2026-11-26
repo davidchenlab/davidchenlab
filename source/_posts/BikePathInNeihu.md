@@ -2,7 +2,7 @@
 title: 內湖 單車山路 練腿力路線
 description: "內湖單車山路練腿力路線：從大港墘公園出發，經五指山、海倫咖啡、風櫃嘴，再挑戰中社與劍南路三段爬坡，包含沿途補給與休息點。"
 categories:
-  - Bike
+  - Sports
 tags:
   - Bike
 abbrlink: 2182ee8e

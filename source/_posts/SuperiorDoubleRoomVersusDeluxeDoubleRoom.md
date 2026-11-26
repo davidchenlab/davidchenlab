@@ -2,7 +2,7 @@
 title: "Superior 與 Deluxe Double Room 差在哪？"
 description: "Superior Double Room（高級雙人房）和 Deluxe Double Room（豪華雙人房）差在哪？通常豪華房樓層較高、景色與安靜度較好，價格相同時建議選豪華房。"
 categories:
-  - Booking
+  - Travel
 tags:
   - Travel
   - Booking

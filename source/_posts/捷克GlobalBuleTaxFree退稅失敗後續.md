@@ -2,10 +2,10 @@
 title: 捷克 Global Bule Tax Free 退稅 失敗後續
 description: "捷克 Global Blue 退稅失敗後續：收據遺失後，客服建議請店家重新開立正本收據，並由店家附上 cover letter 郵寄回 Global Blue 處理。"
 categories:
-  - TaxFree
+  - Travel
 tags:
   - TaxFree
-  - GlobalBule
+  - GlobalBlue
 abbrlink: 888141f3
 date: 2024-08-27 21:35:52
 ---

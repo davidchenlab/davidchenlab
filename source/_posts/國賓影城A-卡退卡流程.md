@@ -2,7 +2,7 @@
 title: 國賓影城 A+卡 退卡流程
 description: "國賓影城 A+ 卡怎麼退卡？帶身分證到任一國賓影城即可退回 1000 元保證金現金，卡內若還有儲值金，退款會被收取 3% 手續費。"
 categories:
-  - Ambassador
+  - Life
 tags:
   - Ambassador
 abbrlink: '34099507'
