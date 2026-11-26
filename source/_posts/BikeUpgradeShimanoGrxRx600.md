@@ -1,5 +1,6 @@
 ---
 title: 2014 GIANT TCR2 升級 SHIMANO GRX RX600
+description: "2014 GIANT TCR2 為了挑戰武嶺，把大盤從 50-34T 升級為 SHIMANO GRX RX600 46-30T，分享升級原因、花費約 3000 元與這組曲柄的齒比特色。"
 categories:
   - Bike
 tags:

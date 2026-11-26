@@ -1,5 +1,6 @@
 ---
 title: FELLOW STAGG EKG 900 VERSUS FELLOW STAGG KETTLE V1.2
+description: "Fellow Stagg EKG 900 和 Stagg Kettle V1.2 手沖壺怎麼選？比較溫控插電與明火加熱、容量、售價，以及各自適合比賽或戶外的使用情境。"
 categories:
   - Coffee
 tags:

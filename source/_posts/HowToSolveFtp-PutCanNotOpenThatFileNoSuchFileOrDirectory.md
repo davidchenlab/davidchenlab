@@ -1,5 +1,6 @@
 ---
 title: How To Solve Ftp_Put() CanNot Open That File NoSuch File Or Directory
+description: "用 FTP 上傳 WordPress 外掛時出現 ftp_put() can't open that file 錯誤？原因是 000webhost 的 Inode 使用量達到 100%，刪除不用的外掛與佈景主題即可解決。"
 categories:
   - WordPress
 tags:

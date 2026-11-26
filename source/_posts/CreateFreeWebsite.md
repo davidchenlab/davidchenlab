@@ -1,5 +1,6 @@
 ---
 title: '虛擬主機 + WORDPRESS.ORG + FREENOM.COM + CLOUDFARE = 架設網站'
+description: "用免費資源架設網站：申請 000webhost 虛擬主機安裝 WordPress、套用 OceanWP 佈景主題，再到 Freenom 申請免費網域並透過 Cloudflare 設定 DNS 的完整步驟。"
 categories:
   - Website
 tags:

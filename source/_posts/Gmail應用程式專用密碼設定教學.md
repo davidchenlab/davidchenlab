@@ -1,5 +1,6 @@
 ---
 title: Gmail 應用程式 專用密碼 設定教學
+description: "Gmail 應用程式專用密碼設定教學：先啟用 Google 帳戶兩步驟驗證，再產生專用密碼，讓 SMTP 發信工具或舊版郵件軟體也能登入 Gmail。"
 categories:
   - GMAIL
 tags:

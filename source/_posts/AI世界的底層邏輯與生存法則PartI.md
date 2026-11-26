@@ -1,5 +1,6 @@
 ---
 title: AI世界 的底層邏輯 與生存法則 PartI
+description: "AI 世界的底層邏輯與生存法則（上）：生成式 AI 怎麼運作、會不會取代你的工作，以及在強者愈強的 AI 時代，為什麼自我覺察比按讚數更重要。"
 categories:
   - AI
 tags:

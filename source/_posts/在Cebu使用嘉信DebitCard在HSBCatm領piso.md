@@ -1,5 +1,6 @@
 ---
 title: 在Cebu 使用嘉信 Debit Card 在HSBC atm 領piso
+description: "在宿霧用嘉信 Charles Schwab Debit Card 到 Ayala Mall 旁的 HSBC ATM 提領披索，匯率選不使用 HSBC 匯率，以嘉信匯率計算通常比現場換匯划算。"
 categories:
   - DebitCard
 tags:

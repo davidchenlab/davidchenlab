@@ -1,5 +1,6 @@
 ---
 title: 分享多個 GMAIL找出 信件指令
+description: "Gmail 搜尋指令整理：用 label:unread、is:important、older、before、larger、from、to 等語法快速找出未讀、重要、特定日期、大附件或特定寄件人的信件。"
 categories:
   - GMAIL
 tags:

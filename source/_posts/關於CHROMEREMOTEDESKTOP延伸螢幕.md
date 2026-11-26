@@ -1,5 +1,6 @@
 ---
 title: 關於 CHROME REMOTE DESKTOP 延伸螢幕
+description: "Chrome 遠端桌面連到有延伸螢幕的電腦時，只有電腦版能選擇要看哪一個螢幕，手機版只能看到延伸螢幕的畫面。"
 categories:
   - Software
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 馬丁尼 (MARTINI) 酒譜
+description: "經典馬丁尼 Martini 酒譜：75ml Tanqueray No. Ten 琴酒加 15ml Noilly Prat 不甜香艾酒，用攪拌法調製，倒入冰鎮的馬丁尼杯並以檸檬皮捲裝飾。"
 categories:
   - Wine
 tags:

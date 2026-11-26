@@ -1,5 +1,6 @@
 ---
 title: Intro 2023 Challenge Taiwan
+description: "2023 Challenge Taiwan 113 鐵人三項賽前準備：游泳 1.9K、單車 90K、半馬 21K，單車運送方式、裝備清單，以及台東報到、檢錄與比賽當天時程。"
 categories:
   - ChallengeTaiwan
 tags:

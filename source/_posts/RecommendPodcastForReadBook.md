@@ -1,5 +1,6 @@
 ---
 title: Recommend Podcast For Read Book
+description: "通勤時推薦聽 Podcast「下一本讀什麼？」，由瓦基介紹成長與投資理財類書籍，聽完再挑自己需要的書來讀，Spotify 收聽還沒有廣告。"
 categories:
   - Podcast
 tags:

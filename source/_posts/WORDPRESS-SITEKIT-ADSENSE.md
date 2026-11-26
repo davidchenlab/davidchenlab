@@ -1,5 +1,6 @@
 ---
 title: WORDPRESS + SITEKIT + ADSENSE
+description: "WordPress 安裝 Google Site Kit 外掛串接 AdSense 教學：一個外掛就能整合 AdSense、Analytics、Search Console 與 PageSpeed Insights 的數據。"
 categories:
   - Website
 tags:

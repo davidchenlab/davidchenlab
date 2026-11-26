@@ -1,5 +1,6 @@
 ---
 title: 介紹HyRead 電子書 使用心得
+description: "HyRead 電子書閱讀器使用心得與規格整理：300 ppi 螢幕、約 195 克、32GB 可擴充、Android 11 系統、支援 EPUB 與 PDF 等多種格式。"
 categories:
   - Ebook
 tags:

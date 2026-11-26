@@ -1,5 +1,6 @@
 ---
 title: How To Capture PNG From MP4 By VLC Media Player
+description: "用 VLC Media Player 從 MP4 影片自動截圖存成 PNG：開啟偏好設定中的場景視訊過濾器並設定間隔，播放影片時就會自動把截圖存到圖片資料夾。"
 categories:
   - VLC Media Player
 tags:

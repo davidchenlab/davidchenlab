@@ -1,5 +1,6 @@
 ---
 title: 中暑 versus 熱衰竭
+description: "中暑和熱衰竭有什麼不同？熱衰竭是大量流失水分與電解質，體溫不超過 40 度且意識清楚；中暑則體溫失控超過 40 度並出現意識混亂等中樞神經症狀。"
 categories:
   - Health
 tags:

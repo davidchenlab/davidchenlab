@@ -1,5 +1,6 @@
 ---
 title: INTRO NO COPY RIGHT SOUNDS (NCS)
+description: "NoCopyrightSounds（NCS）是什麼？2011 年成立的無版權音樂廠牌，提供可在 YouTube、Twitch 免費使用的電子音樂，並推薦熱血歌曲 Janji – Heroes Tonight。"
 categories:
   - Music
 tags:

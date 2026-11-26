@@ -1,5 +1,6 @@
 ---
 title: Agoda 取消不可退款 預訂經驗
+description: "在 Agoda 不小心訂到不可退款的住宿怎麼辦？分享透過 APP 向客服說明點錯選項、飯店現場無法處理，最後兩天內成功取消的實際經驗與建議。"
 abbrlink: 599bbdef
 date: 2026-10-13 12:38:56
 categories:

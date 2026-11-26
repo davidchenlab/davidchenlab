@@ -1,5 +1,6 @@
 ---
 title: ASTRA佈景主題套用
+description: "WordPress Astra 佈景主題套用教學：安裝 Starter Templates 外掛，從範本庫挑選喜歡的模板，再搭配 Elementor 編輯器開始編輯網站。"
 categories:
   - Astra
 tags:

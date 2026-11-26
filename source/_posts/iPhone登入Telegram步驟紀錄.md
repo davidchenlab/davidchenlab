@@ -1,5 +1,6 @@
 ---
 title: iPhone 登入Telegram 步驟紀錄
+description: "iPhone 恢復原廠設定後如何重新登入 Telegram？輸入門號與 Email 收取 6 碼驗證碼，再輸入桌面版 Telegram 收到的 5 碼驗證碼即可登入。"
 categories:
   - Telegram
 tags:

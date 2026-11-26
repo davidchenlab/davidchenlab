@@ -1,5 +1,6 @@
 ---
 title: 介紹自組 SSD外接硬碟
+description: "自組 SSD 外接硬碟心得：選用 ASUS TUF Gaming A1 防摔防水外接盒，搭配 PCIe Gen3 2TB M.2 SSD，USB-C 10Gbps 實測讀寫約 800MB/s。"
 categories:
   - SSD
 tags:
