@@ -54,3 +54,8 @@
   'author': ld_author
 } | dump | safe }}</script>
 {%- endif %}
+
+{#- Keep thin list pages out of the index but let crawlers follow their links to posts -#}
+{%- if (is_archive and is_archive()) or (is_tag and is_tag()) or (is_category and is_category()) or (is_home and is_home() and page.current > 1) %}
+<meta name="robots" content="noindex, follow">
+{%- endif %}
