@@ -156,3 +156,7 @@ neat_js:
     - '**/jquery.fancybox.pack.js'
     - '**/index.js'
     - '**/fireworks.js'
+
+# hexo-renderer-marked: add loading="lazy" to post images (replaces NexT lazyload)
+marked:
+  lazyload: true
