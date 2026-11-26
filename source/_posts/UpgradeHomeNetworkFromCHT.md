@@ -1,5 +1,5 @@
 ---
-title: Upgrade Home Network From CHT
+title: "中華電信光世代升級 100M 流程"
 description: "中華電信光世代從 20M/5M 升級到 100M/40M 的流程：先用中華電信 APP 申請，不成功再打客服，施工人員會換新的小烏龜並提供 WiFi 全屋通。"
 categories:
   - Hardware

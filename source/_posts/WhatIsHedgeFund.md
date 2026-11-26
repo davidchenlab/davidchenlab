@@ -1,5 +1,5 @@
 ---
-title: What Is Hedge Fund
+title: "避險基金是什麼？"
 description: "避險基金（對沖基金）是什麼？介紹它從避險起家到利用槓桿與衍生性金融商品追求高報酬的演變，以及索羅斯量子基金、老虎基金等知名案例與風險。"
 categories:
   - Investment

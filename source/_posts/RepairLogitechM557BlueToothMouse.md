@@ -1,5 +1,5 @@
 ---
-title: Repair Logitech M557 BlueTooth Mouse
+title: "羅技 M557 藍牙滑鼠按鍵失靈自行維修"
 description: "Logitech M557 藍牙滑鼠左右鍵按了沒反應？分享自己拆開四顆螺絲，發現上殼接觸微動開關處磨出凹槽，用雙面膠墊高就修好的過程。"
 categories:
   - Hardware

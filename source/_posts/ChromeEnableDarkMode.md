@@ -1,5 +1,5 @@
 ---
-title: Chrome Enable Dark Mode
+title: "Chrome 強制開啟深色模式教學"
 description: "Chrome 強制開啟深色模式教學：在網址列輸入 chrome://flags/#enable-force-dark，把 Force Dark Mode for Web Contents 設為 Enabled，所有網頁都會變暗色。"
 categories:
   - Software

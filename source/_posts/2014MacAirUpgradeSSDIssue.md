@@ -1,5 +1,5 @@
 ---
-title: 2014 Mac Air Upgrade SSD Issue
+title: "2014 MacBook Air 升級 SSD 後無法開機的解法"
 description: "2014 MacBook Air 自行升級三星 M.2 1TB SSD 後，重開機卡在地球畫面、磁碟工具也抓不到硬碟。分享用開機 USB 安裝 macOS 後順利找到啟動磁碟的解決方法。"
 categories:
   - Hardware

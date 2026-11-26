@@ -1,5 +1,5 @@
 ---
-title: How To Use Ledger With Metamask
+title: "Ledger 冷錢包連接 MetaMask 教學"
 description: "Ledger 冷錢包如何連接 MetaMask：先在 Ledger Live 安裝 Ethereum app，再從 Chrome 的 MetaMask 選擇連結硬體錢包並解鎖帳號的步驟。"
 categories:
   - Investment

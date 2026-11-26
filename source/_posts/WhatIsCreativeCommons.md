@@ -1,5 +1,5 @@
 ---
-title: What Is Creative Commons
+title: "創用 CC 授權是什麼？"
 description: "創用 CC 授權是什麼？介紹 Creative Commons 讓作者授權他人分享與使用作品的方式，以及 CC0、BY、BY-SA、BY-NC 等授權條款的差異比較。"
 categories:
   - Website

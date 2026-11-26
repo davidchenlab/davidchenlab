@@ -1,5 +1,5 @@
 ---
-title: How To Set Charles Schwab Travel Notice
+title: "嘉信 Debit Card 出國前設定 Travel Notice"
 description: "出國要用嘉信 Charles Schwab 金融卡在當地 ATM 領錢前，先設定 Travel Notice。一步步說明從官網 Support 進入 Debit Cards 填寫出國日期與國家的流程。"
 categories:
   - Investment
