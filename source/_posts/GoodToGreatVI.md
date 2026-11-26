@@ -1,5 +1,6 @@
 ---
 title: Good To Great VI
+description: "《從A到A+》讀書筆記 VI：併購無法帶動公司從優秀到卓越，兩家平庸的大企業合併之後，仍然無法變成一家卓越的公司。"
 categories:
   - GoodToGreat
 tags:

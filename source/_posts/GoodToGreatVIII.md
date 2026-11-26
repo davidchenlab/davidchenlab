@@ -1,5 +1,6 @@
 ---
 title: Good To Great VIII
+description: "《從A到A+》讀書筆記 VIII：卓越公司不會特別替轉型取名字或辦活動，有些員工甚至事後回顧才發現轉變有多大，用非革命性的過程促成了革命性的改變。"
 categories:
   - GoodToGreat
 tags:

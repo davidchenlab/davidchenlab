@@ -1,5 +1,6 @@
 ---
 title: Good To Great XIII
+description: "《從A到A+》讀書筆記 XIII：刺蝟原則。要從優秀變卓越必須克服能力的詛咒，核心事業不一定能做到世界頂尖，要用三個圓圈交集的簡單概念取而代之。"
 categories:
   - GoodToGreat
 tags:

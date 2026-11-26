@@ -1,5 +1,6 @@
 ---
 title: Good To Great I
+description: "《從A到A+》讀書筆記 I：空降的企業明星無法帶領公司從優秀變卓越。十一家卓越公司中有十家的執行長是內部升遷，對照公司找空降部隊的頻率高出六倍。"
 categories:
   - GoodToGreat
 tags:

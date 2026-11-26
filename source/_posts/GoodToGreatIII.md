@@ -1,5 +1,6 @@
 ---
 title: Good To Great III
+description: "《從A到A+》讀書筆記 III：卓越公司和對照公司在策略上沒有太大差異，兩者都有清楚的策略，卓越公司也沒有花更多時間做長程策略規劃。"
 categories:
   - GoodToGreat
 tags:

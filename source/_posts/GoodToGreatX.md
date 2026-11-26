@@ -1,5 +1,6 @@
 ---
 title: Good To Great X
+description: "《從A到A+》讀書筆記 X：第五級領導。帶領公司邁向卓越的執行長通常沉默內斂、不愛出風頭，兼具謙沖為懷的個性與不屈不撓的專業堅持。"
 categories:
   - GoodToGreat
 tags:

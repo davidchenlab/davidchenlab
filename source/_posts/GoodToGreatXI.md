@@ -1,5 +1,6 @@
 ---
 title: Good To Great XI
+description: "《從A到A+》讀書筆記 XI：先找對人，再決定要做什麼。卓越的領導人先找對的人上車、請不適任的人下車，再決定車子要開往哪裡，適合的人才是最重要的資產。"
 categories:
   - GoodToGreat
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Good To Great XV
+description: "《從A到A+》讀書筆記 XV：以科技為加速器。卓越公司從不把科技當成驅動改變的主力，卻往往率先應用精挑細選的科技，科技本身從來不是企業興衰的主因。"
 categories:
   - GoodToGreat
 tags:

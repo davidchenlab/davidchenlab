@@ -1,5 +1,6 @@
 ---
 title: Good To Great V
+description: "《從A到A+》讀書筆記 V：科技帶動的變遷無法引爆從優秀到卓越的轉變。科技能加速改變，但單憑科技本身無法引發改變。"
 categories:
   - GoodToGreat
 tags:

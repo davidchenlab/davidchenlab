@@ -1,5 +1,6 @@
 ---
 title: Good To Great XIV
+description: "《從A到A+》讀書筆記 XIV：強調紀律的文化。員工有紀律就不需要層層管轄，思考有紀律就不需要官僚制度，結合紀律文化與創業精神就能激發卓越績效。"
 categories:
   - GoodToGreat
 tags:

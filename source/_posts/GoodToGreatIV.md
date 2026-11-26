@@ -1,5 +1,6 @@
 ---
 title: Good To Great IV
+description: "《從A到A+》讀書筆記 IV：從優秀到卓越的公司不只專注在怎麼變卓越，也花同樣多心思決定應該做什麼，以及應該停止做哪些事。"
 categories:
   - GoodToGreat
 tags:

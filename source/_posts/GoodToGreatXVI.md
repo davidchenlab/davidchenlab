@@ -1,5 +1,6 @@
 ---
 title: Good To Great XVI
+description: "《從A到A+》讀書筆記 XVI：飛輪與命運環路。從優秀到卓越從不是一蹴可幾，而是像推動巨大飛輪一樣持續朝同一方向累積動能，最後才在轉折點突破。"
 categories:
   - GoodToGreat
 tags:

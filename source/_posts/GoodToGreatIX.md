@@ -1,5 +1,6 @@
 ---
 title: Good To Great IX
+description: "《從A到A+》讀書筆記 IX：從優秀到卓越的公司多半不在熱門產業，有些甚至身處很糟的行業。卓越不是環境造成的，而是有意識選擇的結果。"
 categories:
   - GoodToGreat
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Good To Great II
+description: "《從A到A+》讀書筆記 II：主管酬勞多寡和公司能否從優秀變卓越並沒有系統性的關聯，數據不支持「高階主管薪酬是提升績效主要動力」的流行看法。"
 categories:
   - GoodToGreat
 tags:

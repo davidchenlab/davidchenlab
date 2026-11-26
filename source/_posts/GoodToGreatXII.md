@@ -1,5 +1,6 @@
 ---
 title: Good To Great XII
+description: "《從A到A+》讀書筆記 XII：面對殘酷的現實，但絕不喪失信心。介紹史托克戴爾弔詭：有紀律地面對最殘酷的現實，同時堅信自己一定能撐到最後。"
 categories:
   - GoodToGreat
 tags:
