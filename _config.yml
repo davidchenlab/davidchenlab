@@ -5,8 +5,8 @@
 # Site
 title: DavidChen's Lab
 subtitle: share knowledge & life
-description: The blog post about share knowledge & life.
-keywords: Coffee, Investment, Management, Exercise, Website
+description: 分享投資理財、心理學、讀書心得、單車、咖啡與旅遊等生活經驗與知識。
+keywords: 投資理財, 心理學, 讀書心得, 從A到A+, 單車, 咖啡, 旅遊, 生活經驗
 author: DavidChen
 language: zh-TW
 timezone: Asia/Taipei
@@ -17,7 +17,7 @@ url: https://davidchenlab.com/
 permalink: posts/:abbrlink/
 permalink_defaults:
 pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
+  trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
 
 # Directory
@@ -81,7 +81,7 @@ meta_generator: true
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
-updated_option: 'mtime'
+updated_option: 'date'
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -126,6 +126,8 @@ symbols_count_time:
   
 sitemap:
   path: sitemap.xml
+  tags: false
+  categories: false
   
 nofollow:
   enable: true
