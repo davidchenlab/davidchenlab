@@ -1,5 +1,6 @@
 ---
 title: What Is Disliking Hating Tendency
+description: "蒙格人類誤判心理學：討厭／憎恨傾向。仇恨會讓人忽視對方優點、連帶討厭相關的人事物，甚至扭曲事實，以 911 事件與以巴衝突為例說明。"
 categories:
   - Psychology
 tags:

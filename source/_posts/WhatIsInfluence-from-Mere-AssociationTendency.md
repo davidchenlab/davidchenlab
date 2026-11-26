@@ -1,5 +1,6 @@
 ---
 title: What Is Influence from Mere Association Tendency
+description: "蒙格人類誤判心理學：單純聯想傾向。我們會因為過去的經驗或聯想做選擇，例如以為最貴的就是品質最好的，廠商也常利用這種心理提高售價。"
 categories:
   - Psychology
 tags:

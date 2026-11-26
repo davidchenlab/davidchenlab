@@ -1,5 +1,6 @@
 ---
 title: What Is Stress-Influence Tendency
+description: "蒙格人類誤判心理學：壓力影響傾向。輕度壓力能稍微提升表現，沉重壓力卻容易引發功能障礙，壓力也會讓從眾的社會認同傾向變得更強。"
 categories:
   - Psychology
 tags:

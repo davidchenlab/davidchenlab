@@ -1,5 +1,6 @@
 ---
 title: What Is Nash Equilibrium
+description: "納許均衡是什麼？當賽局中每個人都夠聰明、誰也騙不了誰時，會達到一個任何一方都無法單獨改變策略讓自己更好的局面，這就是納許均衡。"
 categories:
   - Psychology
 tags:

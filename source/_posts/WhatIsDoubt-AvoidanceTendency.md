@@ -1,5 +1,6 @@
 ---
 title: What Is Doubt-Avoidance Tendency
+description: "蒙格人類誤判心理學：避免懷疑傾向。人傾向盡快做決定來消除不確定感，所以法官與陪審團必須刻意放慢判斷，做決定前要習慣戴上客觀的面具。"
 categories:
   - Psychology
 tags:

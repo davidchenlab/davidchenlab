@@ -1,5 +1,6 @@
 ---
 title: What Is Survivorship Bias
+description: "倖存者偏差是只看到成功留下來的案例，忽略了看不見的失敗者。用促銷策略、廟宇靈驗、減肥藥和勵志書四個例子，說明這種常見的錯誤推論。"
 categories:
   - Psychology
 tags:

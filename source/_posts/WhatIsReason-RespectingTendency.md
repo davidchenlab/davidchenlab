@@ -1,5 +1,6 @@
 ---
 title: What Is Reason-Respecting Tendency
+description: "蒙格人類誤判心理學：重視理由傾向。人天生喜歡知道「為什麼」，老師解釋原因學生學得更好，下達指令時把理由告訴執行的人也會更有效。"
 categories:
   - Psychology
 tags:

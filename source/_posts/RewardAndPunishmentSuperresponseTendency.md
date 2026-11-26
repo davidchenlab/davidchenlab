@@ -1,5 +1,6 @@
 ---
 title: Reward And Punishment Superresponse Tendency
+description: "蒙格人類誤判心理學：獎勵和懲罰超級反應傾向。以聯邦快遞夜班為例，把按工時計薪改成按班別計薪、做完就能下班後，貨物終於能準時送達，說明誘因設計的威力。"
 abbrlink: a7e43dcf
 date: 2022-04-05 18:08:04
 categories:

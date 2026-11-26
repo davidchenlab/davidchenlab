@@ -1,5 +1,6 @@
 ---
 title: What Is Simple Pain-Avoiding Psychological Denial Tendency
+description: "蒙格人類誤判心理學：簡單的、避免痛苦的心理否認。當現實太痛苦時，人會扭曲事實直到能夠承受，這種傾向常與親人離世、愛情或成癮有關。"
 categories:
   - Psychology
 tags:

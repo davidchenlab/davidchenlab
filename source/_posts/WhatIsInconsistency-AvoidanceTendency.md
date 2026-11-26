@@ -1,5 +1,6 @@
 ---
 title: What Is Inconsistency-Avoidance Tendency
+description: "蒙格人類誤判心理學：避免不一致性傾向。為了節省大腦運算，人天生抗拒改變，這就是為什麼大家都有一堆明知不好卻改不掉的壞習慣。"
 categories:
   - Psychology
 tags:

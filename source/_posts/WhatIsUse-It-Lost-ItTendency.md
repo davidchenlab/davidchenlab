@@ -1,5 +1,6 @@
 ---
 title: What Is Use-It-Lost-It Tendency
+description: "蒙格人類誤判心理學：用進廢退傾向。所有技能不用就會退化，就像飛行員要靠模擬器持續演練罕用但關鍵的技能，學習重要技能要練到精通才停。"
 categories:
   - Psychology
 tags:

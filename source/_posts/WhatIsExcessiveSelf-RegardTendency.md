@@ -1,5 +1,6 @@
 ---
 title: What Is Excessive Self-Regard Tendency
+description: "蒙格人類誤判心理學：自視過高傾向。九成瑞典司機自認開車技術高於平均，人也會高估自己擁有的東西與做過的決定，也就是所謂的稟賦效應。"
 categories:
   - Psychology
 tags:

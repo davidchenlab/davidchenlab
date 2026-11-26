@@ -1,5 +1,6 @@
 ---
 title: What Is Authority-Misinfluence Tendency
+description: "蒙格人類誤判心理學：權威誤導傾向。人類天生習慣追隨領袖，當權威人物犯錯或指令被誤解時，追隨者容易盲從而造成嚴重的認知錯誤。"
 categories:
   - Psychology
 tags:

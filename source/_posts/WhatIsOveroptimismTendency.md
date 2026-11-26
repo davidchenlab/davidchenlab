@@ -1,5 +1,6 @@
 ---
 title: What Is Overoptimism Tendency
+description: "蒙格人類誤判心理學：過度樂觀傾向。人在成功時容易過度樂觀，解決方法是透過學習，習慣用費馬與帕斯卡的機率論來檢驗自己的判斷。"
 categories:
   - Psychology
 tags:

@@ -1,5 +1,6 @@
 ---
 title: What Is Availability-Misweighing Tendency
+description: "蒙格人類誤判心理學：易取得性誤導傾向。大腦會高估容易想到、容易取得的資訊，對策是按程序辦事、善用檢查清單，別因為資訊好找就以為它特別重要。"
 categories:
   - Psychology
 tags:

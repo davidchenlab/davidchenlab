@@ -1,5 +1,6 @@
 ---
 title: What Is Cognitive Bias?
+description: "認知偏誤是什麼？說明人們依主觀感受而非客觀資訊做判斷所產生的系統性偏差，以及為什麼我們總是只找支持自己想法的證據、忽視相反的意見。"
 categories:
   - Psychology
 tags:

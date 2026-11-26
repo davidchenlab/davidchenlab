@@ -1,5 +1,6 @@
 ---
 title: What Is Tunnel Effect?
+description: "隧道效應是人在壓力下只看得到眼前、無法做長遠考量。說明它和貧窮循環的關係，以及賈伯斯為什麼每天穿一樣的衣服來保留心力。"
 categories:
   - Psychology
 tags:

@@ -1,5 +1,6 @@
 ---
 title: What Is Prisoners Dilemma?
+description: "囚犯困境是賽局理論中最經典的非零和例子，說明個人的理性選擇為什麼會導致集體的非理性，以及在重複賽局中合作如何成為可能的結果。"
 categories:
   - Psychology
 tags:
