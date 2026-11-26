@@ -8,7 +8,6 @@ tags:
 abbrlink: d107aedb
 date: 2022-02-14 12:38:10
 ---
-### 造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil
 <!--more-->
 這篇紀錄造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil。
 

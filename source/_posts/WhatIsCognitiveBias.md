@@ -8,7 +8,6 @@ tags:
 abbrlink: 7e4207e0
 date: 2021-12-06 11:53:24
 ---
-### What Is Cognitive Bias?
 <!--more-->
 這篇介紹What Is Cognitive Bias。
 

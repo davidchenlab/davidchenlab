@@ -8,7 +8,6 @@ tags:
 abbrlink: 18eef1c0
 date: 2021-11-29 10:47:25
 ---
-### What Is Creative Commons
 <!--more-->
 這篇介紹What Is Creative Commons。
 

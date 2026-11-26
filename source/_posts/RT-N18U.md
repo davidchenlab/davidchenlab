@@ -8,7 +8,6 @@ tags:
 abbrlink: 753ea156
 date: 2021-11-17 09:52:46
 ---
-### 升級家中中華小烏龜WIFI(ASUS RT-N18U)
 <!--more-->
 這篇介紹升級家中中華小烏龜WIFI(ASUS RT-N18U)。
 

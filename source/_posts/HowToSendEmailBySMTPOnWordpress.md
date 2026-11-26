@@ -10,7 +10,6 @@ tags:
 abbrlink: 3141599f
 date: 2021-10-26 12:24:36
 ---
-### 如何在 WORDPRESS 中設定 SMTP 發信？WP MAIL SMTP BY WPFORMS
 <!--more-->
 這篇介紹如何在 WORDPRESS 中設定 SMTP 發信？WP MAIL SMTP BY WPFORMS。
 

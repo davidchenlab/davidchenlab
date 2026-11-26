@@ -8,7 +8,6 @@ tags:
 abbrlink: d6f0d53a
 date: 2023-03-07 12:52:27
 ---
-### 關於國外刷卡需要PINCODE
 <!--more-->
 這篇介紹關於國外刷卡需要PINCODE。
 

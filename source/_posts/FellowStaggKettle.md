@@ -8,7 +8,6 @@ tags:
 abbrlink: f688faff
 date: 2021-11-05 17:04:48
 ---
-### 比較Fellow STAGG EKG 900與Fellow STAGG Kettle V1.2兩者之間的差異
 <!--more-->
 這篇比較Fellow STAGG EKG 900與Fellow STAGG Kettle V1.2兩者之間的差異。
 

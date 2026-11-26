@@ -8,7 +8,6 @@ tags:
 abbrlink: 977f36bb
 date: 2021-12-08 13:55:01
 ---
-### 馬丁尼 (MARTINI) 酒譜
 <!--more-->
 這篇介紹馬丁尼 (MARTINI) 酒譜。
 

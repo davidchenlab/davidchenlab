@@ -8,8 +8,6 @@ tags:
 abbrlink: 4f37cb56
 date: 2021-11-30 09:58:01
 ---
-What Is Prisoner's Dilemma?
------------------------------------------------------------------------------------------------
 <!--more-->
 這篇介紹What Is Prisoner's Dilemma。
 

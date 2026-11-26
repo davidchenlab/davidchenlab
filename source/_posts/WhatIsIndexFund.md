@@ -8,7 +8,6 @@ tags:
 abbrlink: bea63895
 date: 2021-11-23 10:08:06
 ---
-### What Is Index Fund
 <!--more-->
 這篇介紹What Is Index Fund。
 

@@ -9,7 +9,6 @@ tags:
 abbrlink: bfc1a346
 date: 2023-09-22 10:00:35
 ---
-### 在Cebu 使用嘉信 Debit Card 在HSBC atm 領piso
 <!--more-->
 這篇介紹在Cebu使用嘉信DebitCard在HSBCatm領piso
 

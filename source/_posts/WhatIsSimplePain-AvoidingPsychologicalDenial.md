@@ -8,8 +8,6 @@ tags:
 abbrlink: 116c993
 date: 2024-03-13 08:10:56
 ---
-What Is Simple Pain-Avoiding Psychological Denial Tendency
------------------------------------------------------------------------------------------------
 <!--more-->
 What Is Simple Pain-Avoiding Psychological Denial Tendency
 

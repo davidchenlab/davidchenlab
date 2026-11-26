@@ -9,7 +9,6 @@ tags:
 abbrlink: d15c396c
 date: 2022-12-21 13:25:41
 ---
-### How To Use Ledger With Metamask
 <!--more-->
 這篇介紹How To Use Ledger With Metamask。
 

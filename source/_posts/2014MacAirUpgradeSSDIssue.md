@@ -10,7 +10,6 @@ tags:
 abbrlink: a8e9019
 date: 2022-03-15 15:56:29
 ---
-### 2014 Mac Air Upgrade SSD Issue
 <!--more-->
 這篇紀錄2014 Mac Air Upgrade SSD Issue。
 

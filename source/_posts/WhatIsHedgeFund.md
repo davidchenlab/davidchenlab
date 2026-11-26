@@ -8,7 +8,6 @@ tags:
 abbrlink: fbe6cd1a
 date: 2021-11-24 10:48:10
 ---
-### What Is Hedge Fund
 <!--more-->
 這篇介紹What Is Hedge Fund。
 

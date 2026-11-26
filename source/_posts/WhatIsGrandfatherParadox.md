@@ -8,7 +8,6 @@ tags:
 abbrlink: 485f1658
 date: 2021-12-01 09:45:58
 ---
-### What Is Grandfather Paradox?
 <!--more-->
 這篇介紹What Is Grandfather Paradox。
 

@@ -8,7 +8,6 @@ tags:
 abbrlink: e727e019
 date: 2021-12-05 10:33:18
 ---
-### What Is Confirmation Bias?
 <!--more-->
 這篇介紹What Is Confirmation Bias。
 

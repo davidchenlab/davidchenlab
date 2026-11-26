@@ -8,8 +8,6 @@ tags:
 abbrlink: edd9fd3d
 date: 2024-03-09 08:29:11
 ---
-What Is Kantian Fairness Tendency
------------------------------------------------------------------------------------------------
 <!--more-->
 What Is Kantian Fairness Tendency
 

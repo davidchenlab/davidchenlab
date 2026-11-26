@@ -8,7 +8,6 @@ categories:
 tags:
   - Psychology
 ---
-### What Is Reward And Punishment Superresponse Tendency?
 <!--more-->
 這篇介紹What Is Reward And Punishment Superresponse Tendency。
 

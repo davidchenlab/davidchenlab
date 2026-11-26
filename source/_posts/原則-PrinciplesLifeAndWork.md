@@ -8,7 +8,6 @@ tags:
 abbrlink: 8f898476
 date: 2022-02-13 13:17:36
 ---
-### 原則-PrinciplesLifeAndWork
 <!--more-->
 這篇紀錄原則-PrinciplesLifeAndWork。
 

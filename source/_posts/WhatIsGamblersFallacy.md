@@ -8,7 +8,6 @@ tags:
 abbrlink: 7d7b93d3
 date: 2021-12-02 09:57:33
 ---
-### What Is Gambler's Fallacy?
 <!--more-->
 這篇介紹What Is Gambler's Fallacy。
 

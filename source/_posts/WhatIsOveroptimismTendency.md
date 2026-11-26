@@ -8,8 +8,6 @@ tags:
 abbrlink: 35c94a6c
 date: 2024-03-15 08:49:33
 ---
-What Is Overoptimism Tendency
------------------------------------------------------------------------------------------------
 <!--more-->
 What Is Overoptimism Tendency
 

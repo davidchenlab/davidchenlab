@@ -8,7 +8,6 @@ tags:
 abbrlink: e4423a28
 date: 2021-11-07 10:12:13
 ---
-### 凱利公式(Kelly Formula)
 <!--more-->
 這篇介紹凱利公式(Kelly Formula)。
 

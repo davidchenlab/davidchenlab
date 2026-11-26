@@ -8,7 +8,6 @@ tags:
 abbrlink: 7fe69b15
 date: 2023-04-20 16:00:19
 ---
-### Intro 2023 Challenge Taiwan
 <!--more-->
 這篇介紹2023 Challenge Taiwan。
 

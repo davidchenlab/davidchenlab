@@ -9,13 +9,9 @@ tags:
 abbrlink: c07641d6
 date: 2023-12-26 14:04:36
 ---
-Superior Double Room Versus Deluxe Double Room
------------------------------------------------------------------------------------------------
 <!--more-->
 這篇介紹Superior Double Room Versus Deluxe Double Room。
 
-Superior Double Room Versus Deluxe Double Room
------------------------------------------------------------------------------------------------
 Superior Double Room 中文是高級雙床房
 Deluxe Double Room 中文是豪華雙床房
 在Agoda上發現有一家住宿的Superior Double Room和Deluxe Double Room看起來規格一模一樣。

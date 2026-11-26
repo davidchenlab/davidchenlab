@@ -8,7 +8,6 @@ tags:
 abbrlink: 8bd7e342
 date: 2021-11-27 09:09:20
 ---
-### 關於CHROME REMOTE DESKTOP 延伸螢幕
 <!--more-->
 這篇介紹關於CHROME REMOTE DESKTOP 延伸螢幕。
 

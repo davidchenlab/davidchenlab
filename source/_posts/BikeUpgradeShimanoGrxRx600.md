@@ -8,7 +8,6 @@ tags:
 abbrlink: 7c0a4bc2
 date: 2021-11-12 09:58:55
 ---
-### 2014TCR2升級SHIMANO GRX RX600
 <!--more-->
 這篇介紹2014TCR2升級SHIMANO GRX RX600。
 

@@ -8,8 +8,6 @@ tags:
 abbrlink: 1e2efed1
 date: 2024-03-07 17:51:05
 ---
-What Is Inconsistency-Avoidance Tendency
------------------------------------------------------------------------------------------------
 <!--more-->
 What Is Inconsistency-Avoidance Tendency
 

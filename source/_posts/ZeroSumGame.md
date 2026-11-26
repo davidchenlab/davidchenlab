@@ -8,7 +8,6 @@ tags:
 abbrlink: 3a0c4326
 date: 2021-11-08 12:16:30
 ---
-### 零和遊戲(ZERO-SUM GAME)
 <!--more-->
 這篇介紹零和遊戲(ZERO-SUM GAME)。
 

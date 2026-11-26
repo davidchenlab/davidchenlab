@@ -8,7 +8,6 @@ tags:
 abbrlink: 2c521d7f
 date: 2022-01-17 16:05:09
 ---
-### What Is Marginal Effect?
 <!--more-->
 這篇介紹What Is Marginal Effect。
 

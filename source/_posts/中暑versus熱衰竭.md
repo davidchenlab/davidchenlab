@@ -8,7 +8,6 @@ tags:
 abbrlink: 1a9d7ea9
 date: 2021-11-16 10:19:19
 ---
-### 中暑 versus 熱衰竭
 <!--more-->
 這篇介紹中暑 versus 熱衰竭。
 

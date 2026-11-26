@@ -8,7 +8,6 @@ tags:
 abbrlink: 9773facc
 date: 2021-10-30 10:19:52
 ---
-### 倖存者偏差(What Is Survivorship Bias)
 <!--more-->
 這篇介紹倖存者偏差(What Is Survivorship Bias)。
 
