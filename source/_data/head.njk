@@ -20,3 +20,37 @@
     });
   });
 </script>
+{#- Structured data (JSON-LD) for search engines -#}
+{%- set ld_image = 'https://res.cloudinary.com/dn6ricjvz/image/upload/c_fill,w_1200,h_630,q_auto/v1635302756/Fjallraven_pme9iv.jpg' %}
+{%- set ld_author = {'@type': 'Person', 'name': config.author, 'url': config.url} %}
+{%- if is_post and is_post() %}
+{%- set ld_tags = [] %}{%- for t in page.tags.toArray() %}{%- set _ = ld_tags.push(t.name) %}{%- endfor %}
+{%- set ld_cats = [] %}{%- for c in page.categories.toArray() %}{%- set _ = ld_cats.push(c.name) %}{%- endfor %}
+<script type="application/ld+json">{{ {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  'headline': page.title,
+  'description': page.description or config.description,
+  'image': [ld_image],
+  'datePublished': page.date.toISOString(),
+  'dateModified': (page.updated or page.date).toISOString(),
+  'author': ld_author,
+  'publisher': ld_author,
+  'mainEntityOfPage': {'@type': 'WebPage', '@id': page.permalink},
+  'url': page.permalink,
+  'inLanguage': config.language,
+  'articleSection': ld_cats[0] or '',
+  'keywords': ld_tags | join(', ')
+} | dump | safe }}</script>
+{%- elif is_home and is_home() and not page.prev %}
+<script type="application/ld+json">{{ {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  'name': config.title,
+  'alternateName': config.subtitle,
+  'description': config.description,
+  'url': config.url,
+  'inLanguage': config.language,
+  'author': ld_author
+} | dump | safe }}</script>
+{%- endif %}

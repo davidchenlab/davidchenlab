@@ -94,3 +94,10 @@ motion:
 
 pace:
   enable: true
+
+# Default share image (1200x630 JPG of the site background) for Facebook / LINE / X
+open_graph:
+  enable: true
+  options:
+    image: https://res.cloudinary.com/dn6ricjvz/image/upload/c_fill,w_1200,h_630,q_auto/v1635302756/Fjallraven_pme9iv.jpg
+    twitter_card: summary_large_image
