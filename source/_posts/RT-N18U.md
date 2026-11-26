@@ -1,5 +1,5 @@
 ---
-title: 升級 家中 中華小烏龜 WIFI (ASUS RT-N18U)
+title: "升級家中中華電信小烏龜 Wi-Fi（ASUS RT-N18U）"
 description: "中華電信小烏龜 WiFi 隔一道牆就斷線？分享加裝 ASUS RT-N18U 路由器的設定步驟，並把小烏龜的無線網路隱藏，讓居家上班的網路更穩定。"
 categories:
   - Hardware

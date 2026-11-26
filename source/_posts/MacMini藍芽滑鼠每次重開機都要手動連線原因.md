@@ -1,5 +1,5 @@
 ---
-title: MacMini 藍芽滑鼠 每次重開機都要 手動連線原因
+title: "Mac mini 藍牙滑鼠每次重開機都要手動連線的原因"
 description: "Mac mini M4 更新系統後，藍牙滑鼠每次重開機都要手動重新連線？原因是「檔案保險箱」被開啟，關閉後重開機就能自動連線。"
 categories:
   - Hardware

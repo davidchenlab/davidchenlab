@@ -1,5 +1,5 @@
 ---
-title: AI世界 的底層邏輯 與生存法則 PartII
+title: "《AI 世界的底層邏輯與生存法則》Part II"
 description: "AI 世界的底層邏輯與生存法則（下）：好公司是溝通出來的，寫作與筆記能整理思緒，從做中學的 PBL 模式將成為主流，解決複雜問題要先學會問對問題。"
 categories:
   - Thinking
