@@ -1,5 +1,6 @@
 ---
 title: Intro Charles Schwab Debit Card
+description: "嘉信 Charles Schwab Debit Card 使用心得：每日提款上限 USD 1000、單次 USD 500，ATM 手續費隔天退回，刷卡免 1.5% 海外手續費，以及常見 4202 錯誤與中文客服時間。"
 categories:
   - Investment
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Zero Sum Game
+description: "零和遊戲源自賽局理論，指一方的獲利必定來自另一方的損失。說明零和賽局與非零和（變和）賽局的差別，以及在投資上的意義。"
 categories:
   - Investment
 tags:

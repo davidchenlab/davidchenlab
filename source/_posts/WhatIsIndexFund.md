@@ -1,5 +1,6 @@
 ---
 title: What Is Index Fund
+description: "指數型基金是被動管理的投資工具，ETF 也屬於這一類。說明指數基金的運作原理，並介紹台股 0050 與美股 S&P 500 兩個代表性指數。"
 categories:
   - Investment
 tags:

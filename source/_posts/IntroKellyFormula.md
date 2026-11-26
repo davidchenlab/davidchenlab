@@ -1,5 +1,6 @@
 ---
 title: Kelly Formula
+description: "凱利公式教你依勝率與賠率決定每次下注或投資的資金比例，有利時下大注、不利時下小注。用擲硬幣與股票投資的例子，算出最佳資金配置。"
 categories:
   - Investment
 tags:

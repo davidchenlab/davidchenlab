@@ -1,5 +1,6 @@
 ---
 title: 國泰電匯 IB 英鎊過程
+description: "實測從國泰世華用台幣換英鎊，電匯到盈透證券 IB 的過程：英鎊不能選全額到達，只能付郵電費，中轉行還會另外扣 10 英鎊手續費。"
 categories:
   - Investment
 tags:
