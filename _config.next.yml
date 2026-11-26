@@ -63,6 +63,14 @@ font:
 index_with_subtitle: true
 exturl: true
 
+reading_progress:
+  enable: true
+
+back2top:
+  scrollpercent: true
+
+pangu: true
+
 # Image lazyload moved to Hexo's renderer: see `marked.lazyload` in _config.yml
 
 quicklink:
