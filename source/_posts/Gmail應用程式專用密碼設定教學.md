@@ -1,9 +1,9 @@
 ---
 title: Gmail 應用程式 專用密碼 設定教學
 categories:
-  - Gmail
+  - GMAIL
 tags:
-  - Gmail
+  - GMAIL
 abbrlink: e55f409e
 date: 2025-05-20 14:08:17
 ---
