@@ -1,5 +1,6 @@
 ---
 title: 原則-PrinciplesLifeAndWork
+description: "《原則》讀書心得：橋水基金創辦人 Ray Dalio 分享從創業失敗到成功的歷程，學習避開會導致失敗的決策過程，以及創意擇優、極度透明的企業文化。"
 categories:
   - Book
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 造局者 思考框架的威力 Framers Human Advantage in an Age of Technology and Turmoil
+description: "《造局者：思考框架的威力》讀書筆記：思考框架由因果關係、反事實與限制條件構成，AI 無法自己產生框架，人類的優勢正是建立與另啟思考框架、跳脫既有思維。"
 categories:
   - Book
 tags:
